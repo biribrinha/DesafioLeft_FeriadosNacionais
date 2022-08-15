@@ -2,13 +2,13 @@
 
 ### Etapas do desafio:
 
-A. Deverá ter splash screen;
-B. Tela inicial;
-C. Faça uma busca em uma API e retorne o resultado de
+- Deverá ter splash screen;
+- Tela inicial;
+- Faça uma busca em uma API e retorne o resultado de
 busca;
-D. Retornar informações de localização geográfica dos
+- Retornar informações de localização geográfica dos
 usuários;
-E. Profile de Usuário;
+- Profile de Usuário;
 
 ### Documentação Api
 
