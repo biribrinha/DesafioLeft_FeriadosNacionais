@@ -14,4 +14,8 @@ usuários;
 
 https://brasilapi.com.br/docs
 
+### Emulador utilizado
+
+Expo
+
 
