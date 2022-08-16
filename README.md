@@ -18,12 +18,4 @@ https://brasilapi.com.br/docs
 
 Expo
 
-### Comandos pra rodar o projeto
-
-- Abrir o PowerShell como administrador e executar esse comando:  Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
-
-- Entrar no projeto, abrir o terminal e executar o comando: npm i (ou npm install)
-
-- iniciar o projeto com expo start 
-
 
